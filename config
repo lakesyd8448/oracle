@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaatf6vt3z4xgvim2g5kng7wrhntz3ecdmznocgy7phgzpzopfi4ova
+fingerprint=08:7b:df:33:0b:b0:d7:f8:29:cf:81:9d:be:12:e2:1a
+tenancy=ocid1.tenancy.oc1..aaaaaaaa5j4w3cuecsgp5a5hwzlvu25cio6jm6hgtzl5jnkpuntp6odp4zma
+region=us-chicago-1
+key_file=oci_private_key.pem
